@@ -57,9 +57,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-<!-- <img width="960" alt="Screenshot 2023-10-21 094535" src="https://github.com/divvisha/simplewebserver1/assets/127508123/b7050c90-8ae9-4596-9176-b9232f5438d3">
+<img width="960" alt="Screenshot 2023-10-21 094535" src="https://github.com/divvisha/simplewebserver1/assets/127508123/b7050c90-8ae9-4596-9176-b9232f5438d3">
 
-<img width="960" alt="Screenshot 2023-10-31 154654" src="https://github.com/divvisha/simplewebserver1/assets/127508123/483dd8df-a291-43f1-a4fb-2300cbafe50d"> -->
+<img width="960" alt="Screenshot 2023-10-31 154654" src="https://github.com/divvisha/simplewebserver1/assets/127508123/483dd8df-a291-43f1-a4fb-2300cbafe50d">
 
 
 ## RESULT:
